@@ -10,7 +10,8 @@ contemporary phenomena to see what might be harmful and useless. It is a portal
 to the risk management heuristics and wisdom of the ancients.
 
 The man that has done the most to help educate the world on the Lindy Effect,
-in addition to Nassim Taleb, is Paul Skallas. You can find him on [Twitter](https://twitter.com/PaulSkallas).
+in addition to Nassim Taleb, is Paul Skallas. You can find him on
+[Twitter](https://twitter.com/PaulSkallas).
 
 He does frequent live casts where you can ask all your Lindy related questions
 live. They are immensely valuable and one should try to engage in these, but
